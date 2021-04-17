@@ -2,6 +2,7 @@
 
 - affection for data and machine learning
 - addicted to high accuracies
+- app development is kinda cool too
 
 ## Links
 [LinkedIn](www.linkedin.com/in/marvin-waecker)

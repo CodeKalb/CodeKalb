@@ -5,7 +5,8 @@
 - app development is kinda cool too
 
 ## Links
-[LinkedIn](www.linkedin.com)
+[LinkedIn](https://www.linkedin.com/in/marvin-waecker)
+
 
 
 

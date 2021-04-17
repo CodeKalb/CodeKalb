@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marvin.
-- 👀 AI will not to destroy earth, humanity will. Change my mind.
+- 👀 AI will not destroy earth, humanity will. Change my mind.
 
 
 

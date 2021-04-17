@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CodeKalb
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning a whole new world.
-- 💞️ I’m looking to collaborate on almost everything that's exciting.
+- 👀 I’m interested in Data Science and just coding in general. Change my mind.
+
 
 
 <!---

@@ -1,16 +1,15 @@
 ## Hi, I’m Marvin.
 
-- affection for data and machine learning
-- addicted to high accuracies
-- app development is kinda cool too
+I like tunnels
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/marvin-waecker)
+[Kaggle](https://www.kaggle.com/schaufel)
 
 
 
 
 <!---
-CodeKalb/CodeKalb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MarvinWaecker/MarvinWaecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

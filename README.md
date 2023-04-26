@@ -10,6 +10,6 @@ I like tunnels
 
 
 <!---
-MarvinWaecker/MarvinWaecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+m-waecke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

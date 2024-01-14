@@ -1,11 +1,4 @@
-## Hi, I’m Wegge.
-
-I like tunnels and booster. 
-
-#### Links
-[LinkedIn](https://www.linkedin.com/in/marvin-waecker)  \
-[Kaggle](https://www.kaggle.com/schaufel)  \
-[HackerRank](https://www.hackerrank.com/mwaeck)  
+## Wegge
 
 
 
